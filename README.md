@@ -1,3 +1,6 @@
+# Frontend Deploy Link: 
+https://mern-food-ordering-app-frontend-soz2.onrender.com
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -23,8 +26,7 @@ export default {
     tsconfigRootDir: __dirname,
   },
 
-## Frontend Deployment Link
-https://mern-food-ordering-app-frontend-soz2.onrender.com
+
 }
 ```
 
