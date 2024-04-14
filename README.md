@@ -22,6 +22,9 @@ export default {
     project: ['./tsconfig.json', './tsconfig.node.json'],
     tsconfigRootDir: __dirname,
   },
+
+## Frontend Deployment Link
+https://mern-food-ordering-app-frontend-soz2.onrender.com
 }
 ```
 
